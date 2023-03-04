@@ -1,1 +1,2 @@
 # githubProfiles
+This is a simple program that uses the GitHub API to search for a user's profile and display their basic information and repositories. It includes functions to retrieve user data and repositories, create a user card with their details, and display an error message if the user profile is not found. The code covers the basics of working with APIs, asynchronous JavaScript using async/await, and error handling. However, it does not cover advanced topics such as caching or optimizing API requests.
